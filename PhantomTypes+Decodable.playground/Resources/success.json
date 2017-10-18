@@ -1,0 +1,29 @@
+{
+  "production": {
+    "playlists": [
+      {
+        "id": "577cc27b88d2ff0d0f5acc71",
+        "title": "360 + flat videos"
+      }
+    ],
+    "videos": [
+      {
+        "ids": [
+          "577cc23d50954952cc56bc47"
+        ],
+        "title": "MP4 video"
+      }
+    ]
+  },
+  "stage": {
+    "playlists": [],
+    "videos": [
+      {
+        "ids": [
+          "577d09391313230df40d1893"
+        ],
+        "title": "MP4 video"
+      }
+    ]
+  }
+}
